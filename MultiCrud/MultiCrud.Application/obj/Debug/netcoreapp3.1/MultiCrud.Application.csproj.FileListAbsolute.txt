@@ -1,0 +1,12 @@
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\bin\Debug\netcoreapp3.1\MultiCrud.Application.deps.json
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\bin\Debug\netcoreapp3.1\MultiCrud.Application.dll
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\bin\Debug\netcoreapp3.1\MultiCrud.Application.pdb
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\bin\Debug\netcoreapp3.1\MultiCrud.Domain.dll
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\bin\Debug\netcoreapp3.1\MultiCrud.Domain.pdb
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\obj\Debug\netcoreapp3.1\MultiCrud.Application.csprojAssemblyReference.cache
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\obj\Debug\netcoreapp3.1\MultiCrud.Application.AssemblyInfoInputs.cache
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\obj\Debug\netcoreapp3.1\MultiCrud.Application.AssemblyInfo.cs
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\obj\Debug\netcoreapp3.1\MultiCrud.Application.csproj.CoreCompileInputs.cache
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\obj\Debug\netcoreapp3.1\MultiCrud.Application.csproj.CopyComplete
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\obj\Debug\netcoreapp3.1\MultiCrud.Application.dll
+E:\Fontes\multi-crud\MultiCrud\MultiCrud.Application\obj\Debug\netcoreapp3.1\MultiCrud.Application.pdb
